@@ -5,3 +5,4 @@ modules:
     import:
       dojo: linux-luminarium
       module: path
+  - id: all-about-robert

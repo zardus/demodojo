@@ -1,0 +1,11 @@
+#!/opt/pwn.college/bash
+
+echo "How tall is Robert?"
+read HEIGHT
+if [ "$HEIGHT" == "5'11\"" ]
+then
+	echo "CORRECT! Here is your flag:"
+	cat /flag
+else
+	echo "WRONG! He's way taller."
+fi
