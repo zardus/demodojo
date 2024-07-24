@@ -1,6 +1,7 @@
 id: demodojo
 name: Yan's Demo Dojo
 modules:
-- import:
-  dojo: linux-luminarium
-  module: path
+  - id: imported-path
+    import:
+      dojo: linux-luminarium
+      module: path
