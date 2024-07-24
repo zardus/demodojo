@@ -1,6 +1,6 @@
 name: "All About Robert"
 resources:
-  - title: "Robert Facts"
+  - name: "Robert Facts"
     type: markdown
     content: |
       1. Robert has a beard.
