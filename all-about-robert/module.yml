@@ -2,9 +2,9 @@ name: "All About Robert"
 resources:
   - title: "Robert Facts"
     type: markdown
-    markdown: |
+    content: |
       1. Robert has a beard.
-      2. Robert did not catch the type error.
+      2. Robert did not catch the type error!
       3. ???
 challenges:
   - id: robert-quiz
